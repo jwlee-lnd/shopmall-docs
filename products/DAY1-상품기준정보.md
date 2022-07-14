@@ -110,13 +110,15 @@
 
 ## 별첨
 ### 별첨1-개인사업자등록서식
-- (출처: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302746)    
+- (출처: [국세청-사업자등록신청서(개인)작성방법][individualbizformlink])    
 ![image](../source/imgs/bzmnIndivRegFm1.bmp)
 
 ### 별첨2-법인사업자등록서식
-- (출처: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302747)    
+- (출처: [국세청-사업자등록신청서(법인)작성방법][companybizformlink])    
 ![image](../source/imgs/bzmnCoRegFm1.bmp)
 
+
+<!-- 첨부 링크 -->
 
 [gosilink]: https://www.law.go.kr/%ED%96%89%EC%A0%95%EA%B7%9C%EC%B9%99/%EC%A0%84%EC%9E%90%EC%83%81%EA%B1%B0%EB%9E%98%EB%93%B1%EC%97%90%EC%84%9C%EC%9D%98%EC%83%81%ED%92%88%EB%93%B1%EC%9D%98%EC%A0%95%EB%B3%B4%EC%A0%9C%EA%B3%B5%EC%97%90%EA%B4%80%ED%95%9C%EA%B3%A0%EC%8B%9C
 
@@ -129,3 +131,7 @@
 [coupangovendonutsearchlink]: https://www.coupang.com/np/search?component=&q=%EC%98%A4%EB%B8%90%EC%97%90+%EA%B5%AC%EC%9A%B4+%EB%8F%84%EB%84%9B&channel=user
 
 [coupangdisneylink]: https://www.coupang.com/np/search?component=&q=%EB%94%94%EC%A6%88%EB%8B%88&channel=user
+
+[individualbizformlink]: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302746
+
+[companybizformlink]: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302747

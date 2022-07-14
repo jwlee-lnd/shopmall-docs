@@ -18,6 +18,7 @@
 ## <정보고시품목항목조회>
 1. 전자상거래 등에서의 상품 등의 정보제공에 관한 고시
     * Link : [전자상거래 등에서의 상품 등의 정보제공에 관한 고시][gosilink]
+    * Link : [쿠팡 오븐에 구운 도넛][coupangovendonutlink]
 2. 품목: 품목별 재화 등에 관한 정보
 3. 항목: 전자상거래 등에서의 상품정보제공 고시
 4. 개정으로 인한 변동성이 있음
@@ -39,11 +40,11 @@
 
 
 ## <협력사등록>
-1. 사업자번호와 전화번호 등은 개인정보 때문에 마스킹 가능성 있음
-    1. 현재는 아예 그리드에서 빼버림
-    2. 요구사항 생기면 추가됨
+1. 사업자번호와 전화번호 등은 현재 그리드에서 없음
+    1. 그리드 추가 시 개인정보이기 때문에 마스킹 필요
+    2. 고객사 요구사항 추가 가능성 있음
 2. 전체조회 방식이라 탭을 클릭해도 초기화되지 않음
-    1. 탭마다 초기화버튼이 있어서 초기화를 원할 시 버튼 클릭하면 됨
+    - 탭마다 초기화를 원할 시 초기화버튼 클릭하면 됨
 3. <협력사창고>
     1. 협력사창고는 물류담당자만 담당자로 보여야 함
     2. 창고 주소는 도로명, 지번 모두 받음
@@ -88,7 +89,7 @@
 ## <뱃지등록>
 1. MALL 화면에서 쓸 뱃지 및 아이콘 관리
     1. 쿠팡 예시 (오븐에 구운 도넛)
-        * Link : [쿠팡 오븐에 구운 도넛][coupangovendonutlink]
+        * Link : [쿠팡 오븐에 구운 도넛][coupangovendonutsearchlink]
         1. 여기서 1, 2, 3, 4, 5 가 뱃지 (판매량순, 1-10 있음)
         2. 로켓프레시가 아이콘
     2. 쿠팡 예시 (디즈니)
@@ -104,6 +105,8 @@
 
 [coupangstanleybrandshoplink]: https://www.coupang.com/np/products/brand-shop?brandName=%EC%8A%A4%ED%83%A0%EB%A6%AC
 
-[coupangovendonutlink]: https://www.coupang.com/np/search?component=&q=%EC%98%A4%EB%B8%90%EC%97%90+%EA%B5%AC%EC%9A%B4+%EB%8F%84%EB%84%9B&channel=user
+[coupangovendonutlink]: https://www.coupang.com/vp/products/338238274?itemId=1078116533&vendorItemId=82336003452&q=%EC%98%A4%EB%B8%90%EC%97%90+%EA%B5%AC%EC%9A%B4+%EB%8F%84%EB%84%9B&itemsCount=36&searchId=bd1f88e8c3c446c996d93a3be6c55296&rank=1&isAddedCart=
+
+[coupangovendonutsearchlink]: https://www.coupang.com/np/search?component=&q=%EC%98%A4%EB%B8%90%EC%97%90+%EA%B5%AC%EC%9A%B4+%EB%8F%84%EB%84%9B&channel=user
 
 [coupangdisneylink]: https://www.coupang.com/np/search?component=&q=%EB%94%94%EC%A6%88%EB%8B%88&channel=user

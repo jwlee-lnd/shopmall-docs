@@ -1,5 +1,6 @@
-# DAY 1
+<div style="text-align: right"> 2022.07.14 14:30 </div>
 
+# DAY 1
 
 ## <상품분류등록>
 1. 분류 단계는 4단계까지 받고

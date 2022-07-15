@@ -18,6 +18,9 @@
     - 상품조회는 입력하는 곳이 없으므로 1단계부터 4단계까지 모두 검색 가능
 7. 상품목록 그리드의 대표단품단위판매가는 말 그대로 대표단품여부가 Y인 단품의 단위판매가
 
+
+## <상품프로세스>
+- 별첨: [상품승인 프로세스](#별첨1-상품승인순서도)
 ## <상품등록>
 
 ### 1) 기본정보 탭 - 상품기본정보
@@ -202,6 +205,13 @@
 2. 적용종료일시 > 적용시작일시
 
 <!-- 3. 상품분류 정보고시 추가 설명 있음 -->
+
+
+* * *
+
+## 별첨
+### 별첨1-상품승인순서도
+![image](../source/imgs/algorithm-aprv.bmp)
 
 <!-- 첨부링크 -->
 [coupangdisneyumbrellalink]: https://www.coupang.com/vp/products/293199220?itemId=925898542&vendorItemId=5301388562&pickType=COU_PICK&q=%EB%94%94%EC%A6%88%EB%8B%88&itemsCount=36&searchId=78acefc2fcf444e2a7ce6c52b0f909ff&rank=1&isAddedCart=

@@ -124,6 +124,8 @@
 3. 뱃지/아이콘 구분은 뱃지아이콘구분코드
 
 * * *
+NEXT: [DAY2][day2]
+* * *
 
 ## 별첨
 ### 별첨1-개인사업자등록서식
@@ -152,3 +154,5 @@
 [individualbizformlink]: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302746
 
 [companybizformlink]: https://www.nts.go.kr/taxpayer_advocate/na/ntt/selectNttInfo.do?mi=40396&nttSn=1302747
+
+[day2]: ../products/DAY2-%EC%83%81%ED%92%88%EA%B4%80%EB%A6%AC.md

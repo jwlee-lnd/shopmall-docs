@@ -178,6 +178,7 @@
 1. 전안법 관련: 전기 전자제품이나 유아용품 등 국민의 안전에 해를 끼칠 수 있는 제품에 대한 인증
     >   제1조(목적) 이 법은 전기용품 및 생활용품의 안전관리에 관한 사항을 규정함으로써 국민의 생명ㆍ신체 및 재산을 보호하고, 소비자의 이익과 안전을 도모함을 목적으로 한다.
     >
+    > 출처: [전기용품 및 생활용품 안전관리법 제 1조][electronicdevicesafetyrulefirst]
 2. 판매하려는 상품은 상품등록 시에 안전인증표시 정보를 입력하도록 해야 함
     > 제10조(안전인증표시등이 없는 안전인증대상제품의 판매ㆍ사용 등의 금지)
     >
@@ -186,7 +187,8 @@
     >   ② 안전인증대상제품의 판매중개업자ㆍ구매대행업자 및 수입대행업자는 안전인증표시등이 없는 안전인증대상제품의 판매를 중개(「전자상거래 등에서의 소비자보호에 관한 법률」에 따른 통신판매중개자가 자신이 운영하는 사이버몰에서 발견된 안전인증표시등의 표시가 없는 제품을 즉시 삭제하고 <u>**통신판매중개의뢰자가 상품등록 시 안전인증표시등의 정보를 입력하도록 하는 한편**</u>, 소비자가 이러한 정보를 확인할 수 있도록 기술적 조치를 취한 경우는 제외한다)하거나 구매 또는 수입을 대행해서는 아니 된다.
     >
     >    ③ 제9조제3항제4호부터 제6호까지의 어느 하나에 해당하는 자는 안전인증표시등이 없는 안전인증대상제품을 사용해서는 아니 된다.
-    - [전기용품 및 생활용품 안전관리법][electronicdevicesafetyrule]
+    >
+    > 출처: [전기용품 및 생활용품 안전관리법 제 10조][electronicdevicesafetyruletenth]
 2. 안전인증유형코드는 상세코드와 분리하여 SFT_CERT_PATTN_CD, SFT_CERT_PATTN_DTL_CD 로 나뉘어 관리하였으나 하나로 합칠 수도 있음
     - 추후 논의 예정
     - 상품팀 및 공통팀에서 논의 후 결정 (공통코드 설계와 연관되므로 바로 결정할 수가 없었음)
@@ -226,6 +228,7 @@ PREV: [DAY2][day2]
 
 [coupangstanleylink]: https://www.coupang.com/vp/products/1596362803?itemId=3106757208&vendorItemId=71094519712&trcid=370161&traid=home_CategoryBest_C3&sourceType=CATEGORY&categoryId=185704&isAddedCart=
 
-[electronicdevicesafetyrule]: https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EC%A0%84%EA%B8%B0%EC%9A%A9%ED%92%88%EB%B0%8F%EC%83%9D%ED%99%9C%EC%9A%A9%ED%92%88%EC%95%88%EC%A0%84%EA%B4%80%EB%A6%AC%EB%B2%95
+[electronicdevicesafetyrulefirst]: https://www.law.go.kr/법령/전기용품및생활용품안전관리법/(20180701,15338,20171230)/제1조
+[electronicdevicesafetyruletenth]: https://www.law.go.kr/법령/전기용품및생활용품안전관리법/(20180701,15338,20171230)/제10조
 
 [day2]: ../products/DAY2-%EC%83%81%ED%92%88%EA%B4%80%EB%A6%AC.md

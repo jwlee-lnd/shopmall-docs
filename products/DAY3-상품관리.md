@@ -72,6 +72,10 @@
 5. 특소세
     - 특별소비세 또는 개별소비세
     - 특별소비세는 부가가치세의 단일 세율에 따른 세 부담을 보완하고 사치성 물품 또는 업종에 대한 소비를 억제시키기 위해 마련됨
+        > 제1조(과세대상과 세율)
+        >
+        > (...)
+        >
         > 2.다음 각 목의 물품에 대해서는 그 물품가격 중 대통령령으로 정하는 기준가격(이하 “기준가격”이라 한다)을 초과하는 부분의 가격(이하 이 호에서 “과세가격”이라 한다)에 해당 세율을 적용한다.
         >
         >       가. 다음의 물품에 대해서는 과세가격의 100분의 20
@@ -87,7 +91,7 @@
         >           1) 고급 모피와 그 제품[토끼 모피 및 그 제품과 생모피(生毛皮)는 제외한다]
         >           2) 고급 가구
         >
-        > 출처: [개별소비세법][staxrule]
+        > 출처: [개별소비세법 제 1조][staxrulefirst]
     - 다른 사이트 예시 (주로 직구의 경우 확인 가능)
         - [니코니코][niconicomall]
         - [2fasts][2fastsmall]
@@ -225,6 +229,7 @@ PREV: [DAY2][day2]
 [vatreferencefromhometax]: https://www.nts.go.kr/nts/cm/cntnts/cntntsView.do?mi=2272&cntntsId=7693
 [vatrule21st]: https://www.law.go.kr/법령/부가가치세법/(20220701,18577,20211208)/제21조
 [staxrule]: https://www.law.go.kr/%EB%B2%95%EB%A0%B9/%EA%B0%9C%EB%B3%84%EC%86%8C%EB%B9%84%EC%84%B8%EB%B2%95/(20190401,16091,20181231)/%EC%A0%9C1%EC%A1%B0
+[staxrulefirst]: https://www.law.go.kr/법령/개별소비세법/(20190401,16091,20181231)/제1조
 [niconicomall]: http://www.niconicomall.com/bbs/content.php?co_id=customs
 [2fastsmall]: https://www.2fasts.com/page/info_tax.asp
 

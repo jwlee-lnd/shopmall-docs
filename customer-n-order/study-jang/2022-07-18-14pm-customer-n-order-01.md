@@ -1,4 +1,4 @@
-<div style="text-align: right"> 2022.07.18 14:00 </div>
+<div style="text-align: right"> 2022.07.18 14:00 PM </div>
 
 # 고객 TABLE 설명
 

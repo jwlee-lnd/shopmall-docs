@@ -1,0 +1,1 @@
+<div style="text-align: right"> 2022.07.20. 10:50 AM </div>

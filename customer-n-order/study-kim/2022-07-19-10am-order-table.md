@@ -1,4 +1,4 @@
-<div style="text-align: right"> 2022.07.19 10:00 </div>
+<div style="text-align: right"> 2022.07.19 10:00 AM </div>
 
 # 주문 테이블 설명
 

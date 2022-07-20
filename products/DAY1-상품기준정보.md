@@ -1,4 +1,4 @@
-<div style="text-align: right"> 2022.07.14 14:35, 상품 교육, 담당자 이지원 </div>
+<div style="text-align: right"> 2022.07.14 14:35 PM, 상품 교육, 담당자 이지원 </div>
 
 # DAY 1
 

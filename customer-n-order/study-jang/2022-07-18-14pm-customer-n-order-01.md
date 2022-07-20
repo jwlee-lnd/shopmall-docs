@@ -1,4 +1,6 @@
-고객 TABLE 설명
+<div style="text-align: right"> 2022.07.18 14:00 </div>
+
+# 고객 TABLE 설명
 
 ## 휴면 고객
 - 휴면 고객 테이블이 따로 없어서 고객M에서 관리

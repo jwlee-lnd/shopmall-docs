@@ -2,8 +2,8 @@
 
 # 주문 프로세스
 
-### 주문 관련 테이블 관계
-![image](../../source/imgs/erd.png)
+### 주문 관련 테이블 관계도
+![image](../../source/imgs/ord-erd2.bmp)
 
 ## 주문상품(TB_OD_ORD_GDS)
 

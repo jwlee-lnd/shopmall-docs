@@ -85,4 +85,4 @@
 
 ### 재고차감
 1. TB_PD_UNT 재고 수량 차감
-- update locking 고려
+    - update locking 고려

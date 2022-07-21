@@ -137,7 +137,7 @@ PREV: [DAY1][day1],  NEXT: [DAY3][day3]
 
 ## 별첨
 ### 별첨1-상품승인순서도
-![image](../source/imgs/algorithm-aprv.bmp)
+![image](../source/imgs/algorithm-aprv1.bmp)
 
 
 
